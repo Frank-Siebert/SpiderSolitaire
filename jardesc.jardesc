@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="WINDOWS-1252" standalone="no"?>
+<jardesc>
+    <jar path="E:/Dokumente und Einstellungen/Franky/workspace/SpiderSolitaire.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/SpiderSolitaire/jardesc.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="false" mainClassHandleIdentifier="=SpiderSolitaire/&lt;de.genialitaet.spidersolitaire{SpiderWindow.java[SpiderWindow" manifestLocation="/SpiderSolitaire/manifest" manifestVersion="1.0" reuseManifest="true" saveManifest="true" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="true" exportOutputFolder="false">
+        <javaElement handleIdentifier="=SpiderSolitaire/&lt;de.genialitaet.spidersolitaire"/>
+        <javaElement handleIdentifier="=SpiderSolitaire/&lt;de.genialitaet.visualc"/>
+        <javaElement handleIdentifier="=SpiderSolitaire/&lt;com.cloudgarden.resource"/>
+        <file path="/SpiderSolitaire/.project"/>
+        <file path="/SpiderSolitaire/hprof.bat"/>
+        <file path="/SpiderSolitaire/spiderwindow.bat"/>
+        <file path="/SpiderSolitaire/.classpath"/>
+    </selectedElements>
+</jardesc>
